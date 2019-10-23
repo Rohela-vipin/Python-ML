@@ -1,3 +1,4 @@
+# Face recognition based attendance management system
 
 import tkinter as tk
 from tkinter import Message ,Text
